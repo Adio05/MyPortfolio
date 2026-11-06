@@ -1,2 +1,117 @@
-Y™Áäx-ÆÈ‹j◊ù¢Îi∫⁄+äßj[hëÈ‹¢ÈÌ◊›yNãZñã≠¶Îeäw¨’•µ¡Ω…–ÅIïÖç–∞ÅÏÅ’ÕïM—Ö—îÅÙÅô…Ω¥Äù…ïÖç–úÏ)•µ¡Ω…–ÅÏÅ5Ö•∞∞Å1•π≠ïë•∏∞Å•—°’à∞ÅΩ¡‰∞Å°ïç¨∞Å……Ω›U¡I•ù°–ÅÙÅô…Ω¥Äù±’ç•ëîµ…ïÖç–úÏ)•µ¡Ω…–ÅÏÅAIM=91}%9<ÅÙÅô…Ω¥Äú∏∏ΩëÖ—ÑΩ¡Ω…—ôΩ±•ΩÖ—ÑúÏ()ï·¡Ω…–ÅçΩπÕ–ÅΩπ—Öç—Mïç—•Ω∏ËÅIïÖç–πÄÙÄ†§ÄÙ¯ÅÏ(ÄÅçΩπÕ–ÅmçΩ¡•ïê∞ÅÕï—Ω¡•ïëtÄÙÅ’ÕïM—Ö—î°ôÖ±Õî§Ï((ÄÅçΩπÕ–Å°Öπë±ïΩ¡ÂµÖ•∞ÄÙÄ†§ÄÙ¯ÅÏ(ÄÄÄÅπÖŸ•ùÖ—Ω»πç±•¡âΩÖ…êπ›…•—ïQï·–°AIM=91}%9<πïµÖ•∞§Ï(ÄÄÄÅÕï—Ω¡•ïê°—…’î§Ï(ÄÄÄÅÕï—Q•µïΩ’–††§ÄÙ¯ÅÕï—Ω¡•ïê°ôÖ±Õî§∞Ä»¿¿¿§Ï(ÄÅÙÏ((ÄÅ…ï—’…∏Ä†(ÄÄÄÄÒÕïç—•Ω∏Å•êÙâçΩπ—Öç–àÅç±ÖÕÕ9ÖµîÙâ¡‰¥»¿ÅµêÈ¡‰¥»‡Åâúµlå¿‰ƒÃ¡ïtÅâΩ…ëï»µ–ÅâΩ…ëï»µlåƒ‡…ê»…tÅ…ï±Ö—•ŸîÅΩŸï…ô±Ω‹µ°•ëëï∏à¯(ÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâµÖ‡µ‹¥›·∞Åµ‡µÖ’—ºÅ¡‡¥–ÅÕ¥È¡‡¥ÿÅ±úÈ¡‡¥‡Å…ï±Ö—•ŸîÅË¥ƒ¿à¯(ÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ…Ω’πëïê¥Õ·∞Åâúµù…Öë•ïπ–µ—ºµâ»Åô…Ω¥µlå¡î≈êƒ’tÅ—ºµlå¿‰ƒÃ¡ïtÅâΩ…ëï»ÅâΩ…ëï»µlå»Ã–‘ÃÕtÅ¿¥‡ÅÕ¥È¿¥ƒ»Å±úÈ¿¥ƒÿÅÕ°ÖëΩ‹¥…·∞Å…ï±Ö—•ŸîÅΩŸï…ô±Ω‹µ°•ëëï∏à¯(ÄÄÄÄÄÄÄÄÄÅÏº®ÅM’â—±îÅâÖç≠ù…Ω’πêÅù±Ω‹Ä®ΩÙ(ÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâÖâÕΩ±’—îÅ—Ω¿¥¿Å…•ù°–¥¿Å‹¥‰ÿÅ†¥‰ÿÅâúµlå»…å‘’ïtºƒ¿Å…Ω’πëïêµô’±∞Åâ±’»µlƒ¿¡¡·tÅ¡Ω•π—ï»µïŸïπ—ÃµπΩπîàÄº¯((ÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâù…•êÅù…•êµçΩ±Ã¥ƒÅ±úÈù…•êµçΩ±Ã¥ƒ»ÅùÖ¿¥ƒ¿Å•—ïµÃµçïπ—ï»à¯(ÄÄÄÄÄÄÄÄÄÄÄÅÏº®Å1ïô–ÅΩπ—ïπ–Ä®ΩÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ±úÈçΩ∞µÕ¡Ö∏¥‹ÅÕ¡Öçîµ‰¥ÿà¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâô±ï‡Å•—ïµÃµçïπ—ï»ÅùÖ¿¥»Å—ï·–µ·ÃÅôΩπ–µµΩπºÅ’¡¡ï…çÖÕîÅ—…Öç≠•πúµ›•ëï»Å—ï·–µlå—Öëî‡¡tà¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒÕ¡Ö∏¯¿‘ÄºÅ1ï–ùÃÅΩππïç–ΩÕ¡Ö∏¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒÕ¡Ö∏ÅÖ…•Ñµ°•ëëï∏Ùâ—…’îàÅç±ÖÕÕ9ÖµîÙâ—ï·–µlåÃ»‘»–≈tà˚
-‹ΩÕ¡Ö∏¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒÕ¡Ö∏˘=¡ï∏ÅôΩ»Å=¡¡Ω…—’π•—•ïÃΩÕ¡Ö∏¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯((ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒ†»Åç±ÖÕÕ9ÖµîÙâ—ï·–¥Õ·∞ÅÕ¥È—ó›y∂âûÀk∫wµÁ@ÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ—ï·–µlƒ≈¡·tÅôΩπ–µµΩπºÅ—ï·–µlå·çÑ‡ÂÖtà˘1•π≠ïë%∏Å9ï—›Ω…¨Ωë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ—ï·–µ·ÃÅÕ¥È—ï·–µÕ¥ÅôΩπ–µµïë•’¥Å—ï·–µ›°•—îÅù…Ω’¿µ°ΩŸï»È—ï·–µlå—Öëî‡¡tÅ—…ÖπÕ•—•Ω∏µçΩ±Ω…Ãà¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅµΩÂ•πΩ±’›ÖÖë•º(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒ……Ω›U¡I•ù°–Åç±ÖÕÕ9ÖµîÙâ‹¥–Å†¥–Å—ï·–µlå·çÑ‡ÂÖtÅù…Ω’¿µ°ΩŸï»È—ï·–µlå—Öëî‡¡tÅ—…ÖπÕ•—•Ω∏µçΩ±Ω…ÃàÄº¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩÑ¯((ÄÄÄÄÄÄÄÄÄÄÄÄÄÅÏº®Å•—!’àÅ1•π¨Ä®ΩÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒÑ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ°…ïòıÌAIM=91}%9<πù•—°’âÙ(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ—Ö…ùï–Ùâ}â±Öπ¨à(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅ…ï∞ÙâπΩ…ïôï……ï»à(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅç±ÖÕÕ9ÖµîÙâ¿¥Ã∏‘Å…Ω’πëïêµ·∞Åâúµlå¡åƒ‡ƒ…tÅâΩ…ëï»ÅâΩ…ëï»µlå≈ÑÃÃ»’tÅ°ΩŸï»ÈâΩ…ëï»µlå…ò‘‰–≈tÅô±ï‡Å•—ïµÃµçïπ—ï»Å©’Õ—•ô‰µâï—›ïï∏Åù…Ω’¿Å—…ÖπÕ•—•Ω∏µçΩ±Ω…Ãà(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâô±ï‡Å•—ïµÃµçïπ—ï»ÅùÖ¿¥Ãà¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒ•—°’àÅç±ÖÕÕ9ÖµîÙâ‹¥–Å†¥–Å—ï·–µlå—Öëî‡¡tàÄº¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ—ï·–µlƒ≈¡·tÅôΩπ–µµΩπºÅ—ï·–µlå·çÑ‡ÂÖtà˘•—!’àÅA…Ωô•±îΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒë•ÿÅç±ÖÕÕ9ÖµîÙâ—ï·–µ·ÃÅÕ¥È—ï·–µÕ¥ÅôΩπ–µµïë•’¥Å—ï·–µ›°•—îÅù…Ω’¿µ°ΩŸï»È—ï·–µlå—Öëî‡¡tÅ—…ÖπÕ•—•Ω∏µçΩ±Ω…Ãà¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅù•—°’àπçΩ¥Ωë•º¿‘(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÒ……Ω›U¡I•ù°–Åç±ÖÕÕ9ÖµîÙâ‹¥–Å†¥–Å—ï·–µlå·çÑ‡ÂÖtÅù…Ω’¿µ°ΩŸï»È—ï·–µlå—Öëî‡¡tÅ—…ÖπÕ•—•Ω∏µçΩ±Ω…ÃàÄº¯(ÄÄÄÄÄÄÄÄÄÄÄÄÄÄΩÑ¯(ÄÄÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄÄÄΩë•ÿ¯(ÄÄÄÄΩÕïç—•Ω∏¯(ÄÄ§Ï)ÙÏ(4(
+import React, { useState } from 'react';
+import { Mail, Linkedin, Github, Copy, Check, ArrowUpRight } from 'lucide-react';
+import { PERSONAL_INFO } from '../data/portfolioData';
+
+export const ContactSection: React.FC = () => {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopyEmail = () => {
+    navigator.clipboard.writeText(PERSONAL_INFO.email);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  return (
+    <section id="contact" className="py-20 md:py-28 bg-[#09130e] border-t border-[#182d22] relative overflow-hidden">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        <div className="rounded-3xl bg-gradient-to-br from-[#0e1d15] to-[#09130e] border border-[#234533] p-8 sm:p-12 lg:p-16 shadow-2xl relative overflow-hidden">
+          {/* Subtle background glow */}
+          <div className="absolute top-0 right-0 w-96 h-96 bg-[#22c55e]/10 rounded-full blur-[100px] pointer-events-none" />
+
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+            {/* Left Content */}
+            <div className="lg:col-span-7 space-y-6">
+              <div className="flex items-center gap-2 text-xs font-mono uppercase tracking-wider text-[#4ade80]">
+                <span>05 / Let's Connect</span>
+                <span aria-hidden="true" className="text-[#325241]">¬∑</span>
+                <span>Open for Opportunities</span>
+              </div>
+
+              <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
+                Have a project, tip, or entry-level opportunity?
+              </h2>
+
+              <p className="text-base text-[#a2beb0] max-w-xl leading-relaxed">
+                I‚Äôm always eager to learn from experienced data engineers, collaborate on open-source pipelines, and contribute to forward-thinking teams.
+              </p>
+
+              {/* Direct Action Buttons */}
+              <div className="flex flex-wrap items-center gap-4 pt-2">
+                <a
+                  href={`mailto:${PERSONAL_INFO.email}`}
+                  className="inline-flex items-center gap-2 px-6 py-3.5 text-sm font-semibold text-[#09110d] bg-[#4ade80] hover:bg-[#86efac] rounded-xl transition-all transform hover:-translate-y-0.5 shadow-md shadow-[#4ade80]/20"
+                >
+                  <Mail className="w-4 h-4" />
+                  <span>Send an Email</span>
+                </a>
+              </div>
+            </div>
+
+            {/* Right Connect Box */}
+            <div className="lg:col-span-5 bg-[#08120d] border border-[#1b3425] rounded-2xl p-6 space-y-4">
+              <div className="text-xs font-mono uppercase tracking-wider text-[#8ca89a] pb-2 border-b border-[#1b3425]">
+                Direct Contact Channels
+              </div>
+
+              {/* Email Row with Copy */}
+              <div className="p-3.5 rounded-xl bg-[#0c1812] border border-[#1a3325] flex items-center justify-between">
+                <div className="overflow-hidden">
+                  <div className="text-[11px] font-mono text-[#8ca89a]">Email Address</div>
+                  <div className="text-xs sm:text-sm font-medium text-white truncate font-mono">
+                    {PERSONAL_INFO.email}
+                  </div>
+                </div>
+                <button
+                  onClick={handleCopyEmail}
+                  className="p-2 text-[#8ca89a] hover:text-[#4ade80] transition-colors rounded-lg bg-[#14261c] shrink-0"
+                  title="Copy email to clipboard"
+                >
+                  {copied ? <Check className="w-4 h-4 text-[#4ade80]" /> : <Copy className="w-4 h-4" />}
+                </button>
+              </div>
+
+              {/* LinkedIn Link */}
+              <a
+                href={PERSONAL_INFO.linkedin}
+                target="_blank"
+                rel="noreferrer"
+                className="p-3.5 rounded-xl bg-[#0c1812] border border-[#1a3325] hover:border-[#2f5941] flex items-center justify-between group transition-colors"
+              >
+                <div className="flex items-center gap-3">
+                  <Linkedin className="w-4 h-4 text-[#38bdf8]" />
+                  <div>
+                    <div className="text-[11px] font-mono text-[#8ca89a]">LinkedIn Network</div>
+                    <div className="text-xs sm:text-sm font-medium text-white group-hover:text-[#4ade80] transition-colors">
+                      moyinoluwaadio
+                    </div>
+                  </div>
+                </div>
+                <ArrowUpRight className="w-4 h-4 text-[#8ca89a] group-hover:text-[#4ade80] transition-colors" />
+              </a>
+
+              {/* GitHub Link */}
+              <a
+                href={PERSONAL_INFO.github}
+                target="_blank"
+                rel="noreferrer"
+                className="p-3.5 rounded-xl bg-[#0c1812] border border-[#1a3325] hover:border-[#2f5941] flex items-center justify-between group transition-colors"
+              >
+                <div className="flex items-center gap-3">
+                  <Github className="w-4 h-4 text-[#4ade80]" />
+                  <div>
+                    <div className="text-[11px] font-mono text-[#8ca89a]">GitHub Profile</div>
+                    <div className="text-xs sm:text-sm font-medium text-white group-hover:text-[#4ade80] transition-colors">
+                      github.com/Adio05
+                    </div>
+                  </div>
+                </div>
+                <ArrowUpRight className="w-4 h-4 text-[#8ca89a] group-hover:text-[#4ade80] transition-colors" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
