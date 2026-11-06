@@ -8,8 +8,8 @@ const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 
 export default defineConfig(() => {
   return {
-    // GitHub Pages serves project sites from a repository-name subdirectory.
-    base: process.env.GITHUB_PAGES === 'true' ? '/moyinoluwa-adio-data-engineering-portfolio/' : '/',
+    // GitHub Pages serves this project from the repository-name subdirectory.
+    base: process.env.GITHUB_PAGES === 'true' ? '/MyPortfolio/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
