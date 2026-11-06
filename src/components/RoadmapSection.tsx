@@ -1,3 +1,109 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×­vN‹Z–‹­¦ëeŠw¬Õ¥µÁ½ÉÐI•…Ð™É½´€É•…Ðœì)¥µÁ½ÉÐìI=5A}5%1MQ=9Lô™É½´€œ¸¸½‘…Ñ„½Á½ÉÑ™½±¥½…Ñ„œì)¥µÁ½ÉÐì¡•­¥É±”È°±½¬°MÁ…É­±•Ìô™É½´€±Õ¥‘”µÉ•…Ðœì()•áÁ½ÉÐ½¹ÍÐI½…‘µ…ÁM•Ñ¥½¸èI•…Ð¹€ô€ ¤€ôøì(€É•ÑÕÉ¸€ (€€€€ñÍ•Ñ¥½¸¥ô‰É½…‘µ…Àˆ±…ÍÍ9…µ”ô‰Áä´ÈÀµéÁä´Èà‰œµlŒÀäÄÌÁ•t‰½É‘•ÈµÐ‰½É‘•ÈµlŒÄàÉÈÉtˆø(€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰µ…àµÜ´Ýá°µàµ…ÕÑ¼Áà´ÐÍ´éÁà´Ø±œéÁà´àˆø(€€€€€€€ì¼¨!•…‘•È€¨½ô(€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰™±•à™±•àµ½°µé™±•àµÉ½Üµé¥Ñ•µÌµ•¹©ÕÍÑ¥™äµ‰•ÑÝ••¸µˆ´ÄÈ…À´Ðˆø(€€€€€€€€€€ñ‘¥Øø(€€€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰™±•à¥Ñ•µÌµ•¹Ñ•È…À´ÈÑ•áÐµáÌ™½¹Ðµµ½¹¼ÕÁÁ•É…Í”ÑÉ…­¥¹œµÝ¥‘•ÈÑ•áÐµlŒÑ…‘”àÁtµˆ´Èˆø(€€€€€€€€€€€€€€ñÍÁ…¸øÀÐ€¼É½ÝÑ QÉ…©•Ñ½Éäð½ÍÁ…¸ø(€€€€€€€€€€€€€€ñÍÁ…¸…É¥„µ¡¥‘‘•¸ô‰ÑÉÕ”ˆ±…ÍÍ9…µ”ô‰Ñ•áÐµlŒÌÈÔÈÐÅtˆû
-Üð½ÍÁ…¸ø(€€€€€€€€€€€€€€ñÍÁ…¸ù1•…É¹¥¹œI½…‘µ…Àð½ÍÁ…¸ø(€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€ñ È±…ÍÍ9…µ”ô‰Ñ•áÐ´Íá°Í´éÑ•áÐ´Ñá°™½¹Ðµ•áÑÉ…‰½±ÑÉ…­¥¹œµÑ¥¡ÐÑ•áÐµÝ¡¥Ñ”ˆø(€€€€€€€€€€€€€=¹”MÑ•À…Ð„Q¥µ”(€€€€€€€€€€€€ð½ Èø(€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€ñÀ±…ÍÍ9…µ”ô‰Ñ•áÐµÍ´Ñ•áÐµlŒå•ˆÙ„átµ…àµÜµµˆø(€€€€€€€€€€€ÑÉ…¹ÍÁ…É•¹Ð±½œ½˜µ¥±•ÍÑ½¹•Ì½µÁ±•Ñ•°Í­¥±±Ì…Ñ¥Ù•±ä¥¸‘•Ù•±½Áµ•¹Ð°…¹Ñ¡”•¹¥¹••É¥¹œÑ…É•ÑÌ…¡•…¸(€€€€€€€€€€ð½Àø(€€€€€€€€ð½‘¥Øø((€€€€€€€ì¼¨5¥±•ÍÑ½¹”MÑ•ÁÌQ¥µ•±¥¹”€¨½ô(€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰É¥É¥µ½±Ì´ÄµéÉ¥µ½±Ì´È…À´Ø±œé…À´àˆø(€€€€€€€€€íI=5A}5%1MQ=9L¹µ…À ¡ÍÑ•À¤€ôøì(€€€€€€€€€€€½¹ÍÐ¥Í½µÁ±•Ñ•€ôÍÑ•À¹ÍÑ…ÑÕÌ€ôôô€½µÁ±•Ñ•œì(€€€€€€€€€€€½¹ÍÐ¥Í%¹AÉ½É•ÍÌ€ôÍÑ•À¹ÍÑ…ÑÕÌ€ôôô€%¸AÉ½É•ÍÌœì((€€€€€€€€€€€É•ÑÕÉ¸€ (€€€€€€€€€€€€€€ñ‘¥Ø(ƒ­v¶‰žËkºwµç@€€€€€€€€€€€€€ð½Àø((€€€€€€€€€€€€€€€€€ì¼¨-•ä1•…É¹¥¹Ì€¨½ô(€€€€€€€€€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰µˆ´ØÍÁ…”µä´È‰½É‘•ÈµÐ‰½É‘•ÈµlŒÄäÌÈÈÑtÁÐ´Ðˆø(€€€€€€€€€€€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰Ñ•áÐµáÌ™½¹Ðµµ½¹¼ÕÁÁ•É…Í”ÑÉ…­¥¹œµÝ¥‘•ÈÑ•áÐµlŒá„àå…tˆø(€€€€€€€€€€€€€€€€€€€€€½É”5¥±•ÍÑ½¹•Ìè(€€€€€€€€€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€€€€€€€€€ñÕ°±…ÍÍ9…µ”ô‰Ñ•áÐµáÌÑ•áÐµlŒá‘•ÅtÍÁ…”µä´Ä¸Ô±¥ÍÐµ‘¥ÍŒ±¥ÍÐµ¥¹Í¥‘”ˆø(€€€€€€€€€€€€€€€€€€€€€íÍÑ•À¹­•å1•…É¹¥¹Ì¹µ…À ¡±•…É¹¥¹œ°¥‘à¤€ôø€ (€€€€€€€€€€€€€€€€€€€€€€€€ñ±¤­•äõí¥‘áô±…ÍÍ9…µ”ô‰±•…‘¥¹œµÍ¹Õœˆø(€€€€€€€€€€€€€€€€€€€€€€€€€í±•…É¹¥¹ô(€€€€€€€€€€€€€€€€€€€€€€€€ð½±¤ø(€€€€€€€€€€€€€€€€€€€€€€¤¥ô(€€€€€€€€€€€€€€€€€€€€ð½Õ°ø(€€€€€€€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€€€€€ð½‘¥Øø((€€€€€€€€€€€€€€€ì¼¨½½Ñ•ÈQ½½±Ì1¥ÍÐ€¨½ô(€€€€€€€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰ÁÐ´Ð‰½É‘•ÈµÐ‰½É‘•ÈµlŒÄäÌÈÈÑt™±•à¥Ñ•µÌµ•¹Ñ•È©ÕÍÑ¥™äµ‰•ÑÝ••¸Ñ•áÐµáÌ™½¹Ðµµ½¹¼Ñ•áÐµlŒá„àå…tˆø(€€€€€€€€€€€€€€€€€€ñÍÁ…¸ùQ½½±­¥Ðèð½ÍÁ…¸ø(€€€€€€€€€€€€€€€€€€ñ‘¥Ø±…ÍÍ9…µ”ô‰™±•à¥Ñ•µÌµ•¹Ñ•È…À´ÈÑ•áÐµlŒá‘•Åtˆø(€€€€€€€€€€€€€€€€€€€íÍÑ•À¹Ñ½½±ÍUÍ•¹µ…À ¡Ð°¥‘à¤€ôø€ (€€€€€€€€€€€€€€€€€€€€€€ñI•…Ð¹É…µ•¹Ð­•äõíÑôø(€€€€€€€€€€€€€€€€€€€€€€€€ñÍÁ…¸ùíÑôð½ÍÁ…¸ø(€€€€€€€€€€€€€€€€€€€€€€€í¥‘à€ðÍÑ•À¹Ñ½½±ÍUÍ•¹±•¹Ñ €´€Ä€˜˜€ (€€€€€€€€€€€€€€€€€€€€€€€€€€ñÍÁ…¸±…ÍÍ9…µ”ô‰Ñ•áÐµlŒÌÈÔÈÐÅtˆû
-Üð½ÍÁ…¸ø(€€€€€€€€€€€€€€€€€€€€€€€€¥ô(€€€€€€€€€€€€€€€€€€€€€€ð½I•…Ð¹É…µ•¹Ðø(€€€€€€€€€€€€€€€€€€€€¤¥ô(€€€€€€€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€€€ð½‘¥Øø(€€€€€€€€€€€€¤ì(€€€€€€€€€ô¥ô(€€€€€€€€ð½‘¥Øø(€€€€€€ð½‘¥Øø(€€€€ð½Í•Ñ¥½¸ø(€€¤ì)ôì(
+import React from 'react';
+import { ROADMAP_MILESTONES } from '../data/portfolioData';
+import { CheckCircle2, Clock, Sparkles } from 'lucide-react';
+
+export const RoadmapSection: React.FC = () => {
+  return (
+    <section id="roadmap" className="py-20 md:py-28 bg-[#09130e] border-t border-[#182d22]">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Header */}
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
+          <div>
+            <div className="flex items-center gap-2 text-xs font-mono uppercase tracking-wider text-[#4ade80] mb-2">
+              <span>04 / Growth Trajectory</span>
+              <span aria-hidden="true" className="text-[#325241]">Â·</span>
+              <span>Learning Roadmap</span>
+            </div>
+            <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">
+              One Step at a Time
+            </h2>
+          </div>
+          <p className="text-sm text-[#9eb6a8] max-w-md">
+            A transparent log of milestones completed, skills actively in development, and the engineering targets ahead.
+          </p>
+        </div>
+
+        {/* Milestone Steps Timeline */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+          {ROADMAP_MILESTONES.map((step) => {
+            const isCompleted = step.status === 'Completed';
+            const isInProgress = step.status === 'In Progress';
+
+            return (
+              <div
+                key={step.number}
+                className="relative rounded-2xl bg-[#0c1812] border border-[#1f3a2c] p-6 lg:p-7 flex flex-col justify-between hover:border-[#2f5941] transition-all"
+              >
+                <div>
+                  {/* Step Number + Status Badge */}
+                  <div className="flex items-center justify-between mb-4">
+                    <span className="text-2xl font-mono font-bold text-[#4ade80]">
+                      {step.number}
+                    </span>
+                    <div className="flex items-center gap-1.5 text-xs font-mono">
+                      {isCompleted ? (
+                        <>
+                          <CheckCircle2 className="w-3.5 h-3.5 text-[#4ade80]" />
+                          <span className="text-[#4ade80] font-semibold">Completed</span>
+                        </>
+                      ) : isInProgress ? (
+                        <>
+                          <Clock className="w-3.5 h-3.5 text-[#38bdf8] animate-spin" />
+                          <span className="text-[#38bdf8] font-semibold">In Progress</span>
+                        </>
+                      ) : (
+                        <>
+                          <Sparkles className="w-3.5 h-3.5 text-[#a78bfa]" />
+                          <span className="text-[#a78bfa]">Upcoming Target</span>
+                        </>
+                      )}
+                    </div>
+                  </div>
+
+                  <div className="text-xs font-mono text-[#8ca89a] mb-1">
+                    {step.period}
+                  </div>
+                  <h3 className="text-xl font-bold text-white mb-3">
+                    {step.title}
+                  </h3>
+                  <p className="text-sm text-[#a2beb0] leading-relaxed mb-6">
+                    {step.summary}
+                  </p>
+
+                  {/* Key Learnings */}
+                  <div className="mb-6 space-y-2 border-t border-[#193224] pt-4">
+                    <div className="text-xs font-mono uppercase tracking-wider text-[#8ca89a]">
+                      Core Milestones:
+                    </div>
+                    <ul className="text-xs text-[#c8ded1] space-y-1.5 list-disc list-inside">
+                      {step.keyLearnings.map((learning, idx) => (
+                        <li key={idx} className="leading-snug">
+                          {learning}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
+
+                {/* Footer Tools List */}
+                <div className="pt-4 border-t border-[#193224] flex items-center justify-between text-xs font-mono text-[#8ca89a]">
+                  <span>Toolkit:</span>
+                  <div className="flex items-center gap-2 text-[#c8ded1]">
+                    {step.toolsUsed.map((t, idx) => (
+                      <React.Fragment key={t}>
+                        <span>{t}</span>
+                        {idx < step.toolsUsed.length - 1 && (
+                          <span className="text-[#325241]">Â·</span>
+                        )}
+                      </React.Fragment>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+};
