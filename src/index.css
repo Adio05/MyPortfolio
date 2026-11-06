@@ -1,0 +1,66 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'DM Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  font-family: var(--font-sans);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0b1310;
+}
+::-webkit-scrollbar-thumb {
+  background: #1b2e25;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2b493b;
+}
+
+/* Terminal & Code styling helpers */
+.code-glow {
+  box-shadow: 0 0 30px -5px rgba(74, 222, 128, 0.12);
+}
+
+.data-grid-bg {
+  background-image: radial-gradient(rgba(74, 222, 128, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Light theme for the portfolio toggle */
+html.light { color-scheme: light; }
+html.light body { background: #f4f7f4; color: #17251f; }
+html.light [class*="bg-[#0"],
+html.light [class*="bg-[#1"],
+html.light [class*="bg-[#2"] { background-color: #ffffff !important; }
+html.light [class*="bg-gradient-to-br"] {
+  background-image: linear-gradient(135deg, #ffffff, #edf4ee) !important;
+}
+html.light [class*="border-[#0"],
+html.light [class*="border-[#1"],
+html.light [class*="border-[#2"],
+html.light [class*="border-[#3"] { border-color: #dce6dd !important; }
+html.light .data-grid-bg {
+  background-image: radial-gradient(rgba(49, 110, 70, 0.09) 1px, transparent 1px);
+}
+
+/* Strong contrast for every light-mode text color. */
+html.light body * { color: #203229 !important; }
+html.light [class*="text-[#4ade80"],
+html.light [class*="text-[#86efac"] { color: #176b3a !important; }
+html.light [class*="text-[#38bdf8"] { color: #12628d !important; }
+html.light [class*="text-[#fbbf24"] { color: #805600 !important; }
+html.light [class*="text-[#a78bfa"] { color: #6248a0 !important; }

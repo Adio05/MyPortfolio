@@ -1,0 +1,8 @@
+import React from 'react';
+import { ArrowUpRight, Database } from 'lucide-react';
+import { PERSONAL_INFO } from '../data/portfolioData';
+export const ProjectsSection: React.FC = () => <section id="projects" className="py-20 md:py-28 bg-[#09130e] border-t border-[#182d22]">
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"><div className="mb-10"><div className="text-xs font-mono uppercase tracking-wider text-[#4ade80] mb-2">My first project</div><h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">Sales database practice</h2><p className="text-sm text-[#9eb6a8] max-w-xl mt-3">A small PostgreSQL exercise where I created a sales table, added sample data, and queried the results.</p></div>
+    <article className="rounded-2xl bg-[#0c1812] border border-[#1f3a2c] p-6 sm:p-8 max-w-3xl"><div className="flex items-center gap-3 mb-5"><span className="w-10 h-10 rounded-xl bg-[#14261c] border border-[#2b4b39] flex items-center justify-center text-[#4ade80]"><Database className="w-5 h-5" /></span><div><h3 className="text-lg font-bold text-white">Sales table in PostgreSQL</h3><p className="text-xs text-[#8ca89a]">Tools: PostgreSQL · SQL · VS Code</p></div></div><ul className="text-sm text-[#a2beb0] space-y-2 list-disc list-inside"><li>Created a table for sales practice</li><li>Inserted sample records</li><li>Ran queries to check the data</li></ul><a href="https://github.com/Adio05/sales-database-practice" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 mt-6 text-xs font-semibold text-[#4ade80] hover:text-[#86efac]">View sales database on GitHub<ArrowUpRight className="w-3.5 h-3.5" /></a></article>
+  </div>
+</section>;
