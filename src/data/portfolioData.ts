@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   email: 'adiomoyinoluwa6@gmail.com',
   github: 'https://github.com/Adio05',
   linkedin: 'https://www.linkedin.com/in/moyinoluwaadio/',
-  portraitUrl: `./profile.jpeg`,
+  portraitUrl: `/MyPortfolio/profile.jpeg`,
   stats: [
     { label: 'Relational Database', value: 'PostgreSQL' },
     { label: 'Primary Focus', value: 'ETL & SQL Modeling' },
