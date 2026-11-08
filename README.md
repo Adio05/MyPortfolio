@@ -1,15 +1,23 @@
-# Moyinoluwa Adio | Data Engineering Portfolio
+# Moyinoluwa Adio | Software Engineering & Data Engineering Portfolio
 
-A responsive portfolio website documenting my early data engineering journey, current learning goals, and PostgreSQL sales database practice. My email address and profile photo are shown on the public site.
+A responsive portfolio showcasing my software development background, selected projects, and developing interest in Data Engineering.
 
-## Stack
+## About
 
-- React and TypeScript
-- Vite
-- Tailwind CSS
-- Motion
-- Lucide React
-- GitHub Pages for hosting
+I am a Software Engineering student with experience working on personal and collaborative web projects. I am building on that foundation by learning Python, SQL and PostgreSQL, with the goal of developing practical Data Engineering skills.
+
+## Technology
+
+- React, JavaScript and TypeScript
+- Vite and Tailwind CSS
+- Python (learning)
+- SQL and PostgreSQL (developing)
+- Git and GitHub
+
+## Featured work
+
+- [PostgreSQL sales database practice](https://github.com/Adio05/sales-database-practice) — a learning project involving a sales table, sample records and SQL queries.
+- [Smart Timetable](https://github.com/Adio05/Smart-Timetable) — a software project.
 
 ## Run locally
 
@@ -20,17 +28,11 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-Open the local address printed by Vite (usually `http://localhost:3000`).
-
 To create a production build:
 
 ```bash
 npm run build
 ```
-
-## Project featured
-
-The portfolio links to my [PostgreSQL sales database practice](https://github.com/Adio05/sales-database-practice), where I created a sales table, inserted sample data, and ran queries.
 
 ## Deployment
 
