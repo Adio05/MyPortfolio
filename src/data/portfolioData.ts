@@ -310,21 +310,21 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 export const ROADMAP_MILESTONES: RoadmapMilestone[] = [
   {
     number: '01',
-    title: 'PostgreSQL and SQL basics',
-    status: 'Completed',
-    period: 'Completed · First steps',
-    summary: 'Set up PostgreSQL, connected it to VS Code, created a sales table, added sample data, and queried the results.',
-    keyLearnings: ['Creating a table', 'Adding sample records', 'Running queries to inspect data'],
-    toolsUsed: ['PostgreSQL', 'SQL', 'VS Code']
+    title: 'SQL and PostgreSQL foundations',
+    status: 'In Progress',
+    period: 'Refreshing · Building confidence',
+    summary: 'I have previous exposure to SQL from my Aptech studies and have practised creating a PostgreSQL sales table, inserting sample records, and running basic queries. I am revisiting the fundamentals to strengthen my understanding.',
+    keyLearnings: ['Refreshing SQL syntax and core concepts', 'Practising table creation and data manipulation', 'Rebuilding confidence with basic queries'],
+    toolsUsed: ['SQL', 'PostgreSQL']
   },
   {
     number: '02',
-    title: 'Python foundations',
-    status: 'Upcoming',
-    period: 'Next · Learning',
-    summary: 'Build Python basics and practice using Python to load data into a database automatically.',
-    keyLearnings: ['Python fundamentals', 'Working with data files', 'Connecting Python to PostgreSQL'],
-    toolsUsed: ['Python', 'PostgreSQL']
+    title: 'Python programming',
+    status: 'In Progress',
+    period: 'Developing · Intermediate',
+    summary: 'I have an intermediate foundation in Python and am continuing to improve my problem-solving and practical programming skills, with the goal of applying Python to data-focused tasks.',
+    keyLearnings: ['Strengthening Python programming skills', 'Practising problem-solving and working with data', 'Applying Python to practical projects'],
+    toolsUsed: ['Python']
   }
 ];
 
