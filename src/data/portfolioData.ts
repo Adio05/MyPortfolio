@@ -2,7 +2,7 @@ import { Project, SQLQuery, PipelineStep, RoadmapMilestone, SkillCategory } from
 
 export const PERSONAL_INFO = {
   name: 'Moyinoluwa Adio',
-  role: 'Aspiring Data Engineer',
+  role: 'Software Developer | Aspiring Data Engineer',
   tagline: 'Learning data engineering one project at a time.',
   bio: "Hi, I’m Moyinoluwa Adio. I'm building strong foundations in data engineering—learning how to ingest, structure, and query data with PostgreSQL, SQL, and Python. Driven by curiosity and a commitment to writing clean, maintainable data systems.",
   location: 'Open to Remote & Global Opportunities',
