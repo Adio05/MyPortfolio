@@ -265,44 +265,36 @@ HAVING COUNT(*) > 1;`,
 
 export const SKILL_CATEGORIES: SkillCategory[] = [
   {
-    title: 'Databases & Querying',
-    description: 'Designing normalized schemas, indexing, and querying relational data.',
+    title: 'Software Development',
+    description: 'Technologies I have used in personal and collaborative web projects.',
     skills: [
-      { name: 'PostgreSQL', status: 'Core Skill', highlight: 'Schema design, constraints, local instance management' },
-      { name: 'SQL (DDL / DML)', status: 'Core Skill', highlight: 'CREATE, ALTER, INSERT, UPDATE, DELETE' },
-      { name: 'Aggregations & Grouping', status: 'Core Skill', highlight: 'SUM, AVG, COUNT, MIN/MAX with GROUP BY & HAVING' },
-      { name: 'Window Functions', status: 'Actively Using', highlight: 'OVER, PARTITION BY, running cumulative totals' },
-      { name: 'Table Joins', status: 'Core Skill', highlight: 'INNER, LEFT, RIGHT, FULL OUTER relational links' }
+      { name: 'HTML & CSS', status: 'Project Experience', highlight: 'Building and styling web pages' },
+      { name: 'JavaScript', status: 'Project Experience', highlight: 'Adding interactivity and application logic' },
+      { name: 'React', status: 'Project Experience', highlight: 'Building component-based user interfaces' },
+      { name: 'TypeScript', status: 'Project Experience', highlight: 'Developing web projects with typed JavaScript' }
     ]
   },
   {
-    title: 'Programming & Data Processing',
-    description: 'Writing scripts to extract, clean, transform, and load data.',
+    title: 'Programming',
+    description: 'Programming languages I use and continue to strengthen.',
     skills: [
-      { name: 'Python 3', status: 'Actively Using', highlight: 'Data structures, file I/O, modular scripting' },
-      { name: 'Pandas', status: 'Actively Using', highlight: 'DataFrame manipulation, cleaning, and formatting' },
-      { name: 'psycopg2', status: 'Core Skill', highlight: 'PostgreSQL database adapter for Python' },
-      { name: 'Data Validation', status: 'Actively Using', highlight: 'Null checks, regex sanitization, schema typing' }
+      { name: 'Python', status: 'Intermediate', highlight: 'Continuing to develop problem-solving and practical programming skills' }
     ]
   },
   {
-    title: 'Developer Tools & Workflows',
-    description: 'Modern developer environment and version control.',
+    title: 'Databases',
+    description: 'Database foundations I have studied and practised.',
     skills: [
-      { name: 'VS Code', status: 'Core Skill', highlight: 'SQL tools, database extensions, Python debugging' },
-      { name: 'Git & GitHub', status: 'Core Skill', highlight: 'Version control, branch management, repo hosting' },
-      { name: 'Bash & Terminal', status: 'Actively Using', highlight: 'CLI navigation, psql commands, script execution' },
-      { name: 'pgAdmin & DBeaver', status: 'Actively Using', highlight: 'Database inspection and ERD visualization' }
+      { name: 'SQL', status: 'Beginner · Refreshing', highlight: 'Revisiting SQL fundamentals and basic queries' },
+      { name: 'PostgreSQL', status: 'Basic Practice', highlight: 'Creating tables, inserting sample records and running basic queries' }
     ]
   },
   {
-    title: 'On My Roadmap',
-    description: 'Actively studying to expand pipeline engineering capabilities.',
+    title: 'Developer Tools',
+    description: 'Tools used in my development workflow.',
     skills: [
-      { name: 'Apache Airflow', status: 'Currently Learning', highlight: 'DAG orchestration and automated scheduled pipelines' },
-      { name: 'Docker', status: 'Currently Learning', highlight: 'Containerizing databases and ETL worker scripts' },
-      { name: 'dbt (data build tool)', status: 'Next on Roadmap', highlight: 'Modular SQL transformations and automated testing' },
-      { name: 'Cloud Warehouses', status: 'Next on Roadmap', highlight: 'BigQuery / Snowflake architecture patterns' }
+      { name: 'Git & GitHub', status: 'Practical Experience', highlight: 'Version control and hosting project repositories' },
+      { name: 'VS Code', status: 'Practical Experience', highlight: 'Writing and managing code for development projects' }
     ]
   }
 ];
