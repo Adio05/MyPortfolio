@@ -6,8 +6,8 @@ export const AboutSection: React.FC = () => (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="mb-10">
         <div className="text-xs font-mono uppercase tracking-wider text-[#4ade80] mb-2">About me</div>
-        <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">Software engineering, with a growing data focus</h2>
-        <p className="text-sm text-[#a2beb0] leading-relaxed max-w-3xl mt-4">I’m a Software Engineering student who enjoys learning how applications are designed and built. Through academic, personal and collaborative web projects, I’ve been developing my programming and problem-solving skills. I’m now extending that foundation into Data Engineering, with a focus on Python, SQL, relational databases and data pipelines.</p>
+        <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-white">Software development, with a growing data focus</h2>
+        <p className="text-sm text-[#a2beb0] leading-relaxed max-w-3xl mt-4">I’m a Software Developer who enjoys learning how applications are designed and built. Through academic, personal and collaborative web projects, I’ve been developing my programming and problem-solving skills. I’m now extending that foundation into Data Engineering, with a focus on Python, SQL, relational databases and data pipelines.</p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <article className="rounded-2xl bg-[#0c1812] border border-[#1f3a2c] p-6 sm:p-8">
