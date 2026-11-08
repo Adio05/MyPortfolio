@@ -13,9 +13,7 @@ const projects = [
       'Save schedules locally, with Firebase sign-in and shared cloud sync support'
     ],
     technologies: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Firebase'],
-    githubUrl: 'https://github.com/Adio05/Smart-Timetable',
     Icon: CalendarDays,
-    linkLabel: 'View Smart Timetable on GitHub'
   },
   {
     title: 'Sales table in PostgreSQL',
@@ -62,9 +60,11 @@ export const ProjectsSection: React.FC = () => (
             <p className="text-xs text-[#8ca89a] mb-5">
               <span className="font-semibold text-[#b8d0c2]">Technologies:</span> {technologies.join(' · ')}
             </p>
-            <a href={githubUrl} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-xs font-semibold text-[#4ade80] hover:text-[#86efac]">
-              {linkLabel}<ArrowUpRight className="w-3.5 h-3.5" />
-            </a>
+            {githubUrl && (
+              <a href={githubUrl} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 text-xs font-semibold text-[#4ade80] hover:text-[#86efac]">
+                {linkLabel}<ArrowUpRight className="w-3.5 h-3.5" />
+              </a>
+            )}
           </article>
         ))}
       </div>
