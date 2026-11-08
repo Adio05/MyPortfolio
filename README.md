@@ -4,7 +4,7 @@ A responsive portfolio showcasing my software development background, selected p
 
 ## About
 
-I am a Software Engineering student with experience working on personal and collaborative web projects. I am building on that foundation by learning Python, SQL and PostgreSQL, with the goal of developing practical Data Engineering skills.
+I am a Software Developer with experience working on personal and collaborative web projects. I am building on that foundation by learning Python, SQL and PostgreSQL, with the goal of developing practical Data Engineering skills.
 
 ## Technology
 
