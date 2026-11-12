@@ -1,27 +1,34 @@
-# Moyinoluwa Adio | Software Engineering & Data Engineering Portfolio
+# Moyinoluwa Adio | Software & Data Engineering Portfolio
 
-A responsive portfolio showcasing my software development background, selected projects, and developing interest in Data Engineering.
+A responsive portfolio that presents my software-development foundation, selected projects, and growing interest in data engineering.
 
 ## About
 
-I am a Software Developer with experience working on personal and collaborative web projects. I am building on that foundation by learning Python, SQL and PostgreSQL, with the goal of developing practical Data Engineering skills.
+I am a Computer Science student and aspiring Software and Data Engineer. I have experience with personal and collaborative web projects, and I am building practical skills in Python, SQL, PostgreSQL, Git, and GitHub.
 
-## Technology
+## Built With
 
-- React, JavaScript and TypeScript
+- React, JavaScript, and TypeScript
 - Vite and Tailwind CSS
+- GitHub Actions and GitHub Pages
 - Python (learning)
 - SQL and PostgreSQL (developing)
-- Git and GitHub
 
-## Featured work
+## Featured Projects
 
-- [PostgreSQL sales database practice](https://github.com/Adio05/sales-database-practice) — a learning project involving a sales table, sample records and SQL queries.
-- [Smart Timetable](https://github.com/Adio05/Smart-Timetable) — a software project.
+### [PostgreSQL Sales Database Practice](https://github.com/Adio05/sales-database-practice)
 
-## Run locally
+A beginner data-engineering practice project that creates a sales table, loads sample records, and uses SQL to summarize units sold and revenue by product and day.
 
-Requirements: Node.js 22 or newer.
+**Skills demonstrated:** SQL, PostgreSQL, schema design, data quality checks, aggregation, and documentation.
+
+### [Smart Timetable](https://github.com/Adio05/Smart-Timetable)
+
+A software project included in this portfolio.
+
+## Run Locally
+
+**Requirements:** Node.js 22 or newer.
 
 ```bash
 npm install --legacy-peer-deps
@@ -36,4 +43,8 @@ npm run build
 
 ## Deployment
 
-The GitHub Actions workflow in `.github/workflows/deploy.yml` builds the site and publishes it to GitHub Pages whenever changes are pushed to `main`.
+A GitHub Actions workflow builds and publishes this site to GitHub Pages whenever changes are pushed to `main`.
+
+## Contact
+
+- GitHub: [@Adio05](https://github.com/Adio05)
